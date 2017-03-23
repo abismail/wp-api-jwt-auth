@@ -9,7 +9,7 @@
         "name": "Tmeister",
         "email": "noone@tmeister.net"
       }
-    ]
+    ],
     "config": {
         "vendor-dir": "includes/vendor"
     },

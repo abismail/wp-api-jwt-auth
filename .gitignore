@@ -1,0 +1,4 @@
+includes/vendor
+includes/vendor/*.*
+includes/vendor/composer
+composer.lock
